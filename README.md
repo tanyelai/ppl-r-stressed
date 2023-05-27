@@ -21,4 +21,4 @@ Bu çalışmanın sonuçları, stresle başa çıkma stratejileri ve terapötik 
 Sonuçlar popülasyon üzerine her sorunun aynı etkiyi yaratmadığını ve belirli soruların da
 oldukça ayırt edici olduğunu göstermektedir. Burada yapılabilecek çıkarım, bazı soruların yapısından dolayı varyansa çok açık olmaması ve bu soruların popülasyondaki bireyleri ayırt etme konusunda anlamlı olmayacağıdır. Modeller sorular arasındaki bu ilişkileri minimum bilgiyle keşfetmektedir. Gelecekte, makineye daha fazla bilgi sağlayarak ve daha büyük bir popülasyon kullanarak bu çalışmanın replikasyonunun yapılması, soruların insanların stresini ölçmede ne kadar etkili olduğunu tanımlamada alternatif bir göz olarak yerini alabilir.
 
-<img width="667" alt="image" src="https://github.com/toygarr/ppl-r-stressed/assets/44132720/ae921db7-1f30-42c1-8cad-b338db59cb5e">
+<img width="385" alt="image" src="https://github.com/toygarr/ppl-r-stressed/assets/44132720/a39f35fc-8bdf-4874-9d81-a7d2160833cb">
