@@ -13,6 +13,8 @@ stres testinin sonuçlarının yorumlanmasında kullanılan ölçeğin doğrulu�
 sorularının önem sıralamasındaki farklılıkların göz ardı edilmemesi gerektiğini vurgulamaktadır.
 Bu çalışmanın sonuçları, stresle başa çıkma stratejileri ve terapötik yaklaşımlar açısından önemlidir.
 
+Çalışmanın makalesi: [https://arxiv.org/pdf/2305.18473.pdf](https://arxiv.org/pdf/2305.18473.pdf)
+
 
 [EN] In this study, the stress levels of 150 individuals were measured using a perceived stress test. The test consists of 14 questions, and each question is scored on a scale of 0 to 4 (with a total score range of 0-56). Seven of the questions are negative and scored as such, while the remaining seven are positive and scored in reverse. The test is designed to assess two sub-factors: perceived self-efficacy and stress/discomfort perception. The aim of this study is not only to demonstrate that test questions may not have equal importance using artificial intelligence but also to reveal the presence of patterns that can be followed and observed by individuals in the field of psychology. The results obtained provide a different perspective from the psychology literature. This study questions the accuracy of the scale used in interpreting the results of the perceived stress test and emphasizes the importance of considering differences in the ranking of question importance. The findings of this study are significant in terms of coping strategies for stress and therapeutic approaches.
 
